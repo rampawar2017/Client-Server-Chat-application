@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ClientComm.cpp
+  Comms.cpp
+  Client.cpp
+c:\users\boota\desktop\tasks\task2\client\client.cpp(26): warning C4474: 'wprintf_s' : too many arguments passed for format string
+  c:\users\boota\desktop\tasks\task2\client\client.cpp(26): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating code
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Client.vcxproj -> C:\Users\Boota\Desktop\Tasks\Task2\Release\Client.exe
